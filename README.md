@@ -1,2 +1,0 @@
-# First-steps
-Primeros pasos
